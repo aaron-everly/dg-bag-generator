@@ -1,8 +1,10 @@
-# Vue 3 + Vite
+# Disc Golf Bag Generator
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Vue app that generates a random disc golf bag. You can select your preference of brand(s) and how many of each type you would like to carry. Disc data is based on https://github.com/chinsan-lim/discgolfdiscs.
 
-## Recommended IDE Setup
+## Installation
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-# dg-bag-generator
+1. Clone this repository.
+2. cd into directory
+3. Run `npm install` to install dependencies.
+4. Run `npm run dev` to run app.
